@@ -1,4 +1,4 @@
-# AbsolueFaces
+# AbsoluteFaces
 A demo Facial recognition 
 1.Methodology Used:
 LBPH(Local Binary Pattern Histrogram)-> labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number. 
